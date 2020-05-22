@@ -1,0 +1,8 @@
+Q: Test your program on breast cancer and ionosphere given on the website. Is the 
+mini-batch faster or the original one? How about accuracy?
+A: SGD is faster than mini batch gradient descent as it updates weigths more frequrntly
+but mini batch is more accurate
+
+Q: Is the search faster or more accurate if you keep track of the best objective
+in the inner loop?
+A: It's faster
